@@ -7,7 +7,7 @@ class FileFormat
         cy.visit('https://csvdemomockappp.bundlewallet.com/')
     }
 
-    LinkAccessibility()
+  LinkAccessibility()
     {
         cy.get('h1').should('be.visible')
         cy.get('h1').should('contain', 'CSV Invoice Parser')
