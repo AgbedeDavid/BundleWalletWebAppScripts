@@ -6,7 +6,7 @@ Welcome to our Web App's End-to-End Testing Readme! 🚀
 ## Testing Procedure
 We followed these steps to ensure the reliability of our Web App:
 
-1. **Setup Environment**: We prepared a dedicated test environment to mimic real-world usage.
+1. **Setup Environment**: We prepared a dedicated test environment to compare usage.
 
 2. **Test Cases**: We designed test cases to cover various scenarios, including different lawyer names, pricing, and timeframes.
 
@@ -29,4 +29,3 @@ This integration has significantly improved our efficiency, ensuring that our la
 
 🔗🔗🔗 Attached is a Mocha reporter to see collection runs and scripts. Doenload and extract file to be able to view report (https://drive.google.com/file/d/1pdYnassr8w_E2CXdiSf18qpDJ9hdvWqe/view?usp=sharing)
 
-If you have any questions or need assistance, feel free to reach out to our support team. Thank you for choosing our services! 👩‍⚖️👨‍⚖️
